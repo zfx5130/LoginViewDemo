@@ -4,4 +4,4 @@
 
 ##### 效果图如下
 
-![效果图]()
+![效果图](https://github.com/zfx5130/LoginViewDemo/blob/master/test.gif)
